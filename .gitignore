@@ -1,0 +1,8 @@
+png/
+models/
+test/
+train/
+slack_notification.py
+__pycache__
+__MACOSX/
+.ipynb_checkpoints/
